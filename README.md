@@ -30,4 +30,4 @@ Customers could include companies looking to monitor the mental well being of th
 
 
 ## Author
-Gideon Teo Zhi Kai, Jeslyn Teo Wen Qii, Darren Tan, Harrison Crawford Sloan, Nick Sum Yew Fei
+Gideon Teo Zhi Kai, Darren Tan, Jeslyn Teo Wen Qii, Harrison Crawford Sloan, Nick Sum Yew Fei
